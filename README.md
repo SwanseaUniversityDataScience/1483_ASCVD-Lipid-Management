@@ -1,12 +1,10 @@
-# Amgen_Phase_1
-### Trends in Atherosclerotic Cardiovascular Disease and lipid management.
-
-## 📝 Project Description
-
+# Trends in Atherosclerotic Cardiovascular Disease and lipid management.
 ### Daniel E. Harris <sup>1</sup>,<sup>2</sup>, Daniel King <sup>1</sup>, Ashley Akbari <sup>1</sup>, Michael B. Gravenor <sup>1</sup>, Julian P.J. Halcox <sup>1</sup>, Others to be added
 
 <sup>1</sup> Population Data Science, Swansea University Medical School, Faculty of Medicine, Health & Life Science, Swansea University <br>
-<sup>1</sup> Tritech Institute, Hywel Dda University Health Board <br>
+<sup>2</sup> Tritech Institute, Hywel Dda University Health Board <br>
+
+## 📝 Project description
 
 A retrospective observational population study using linked health-care data (2010-22). 
 
