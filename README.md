@@ -1,5 +1,5 @@
 # Trends in Atherosclerotic Cardiovascular Disease and lipid management.
-### Daniel E. Harris <sup>1</sup>,<sup>2</sup>, Daniel King <sup>1</sup>, Ashley Akbari <sup>1</sup>, Michael B. Gravenor <sup>1</sup>, Julian P.J. Halcox <sup>1</sup>, Others to be added
+### Daniel E. Harris <sup>1,2</sup>, Daniel King <sup>1</sup>, Ashley Akbari <sup>1</sup>, Michael B. Gravenor <sup>1</sup>, Julian P.J. Halcox <sup>1</sup>, Others to be added
 
 <sup>1</sup> Population Data Science, Swansea University Medical School, Faculty of Medicine, Health & Life Science, Swansea University <br>
 <sup>2</sup> Tritech Institute, Hywel Dda University Health Board <br>
@@ -38,6 +38,3 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
-This is the github repository to store SQL and R scripts and code lists used for phase 1 of the Amgen ASCVD risk management project lead by Daniel Harris and Julian Halcox.
-SAIL project number 1483
