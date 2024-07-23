@@ -15,7 +15,7 @@ European clinical guidelines recommend that patients with atherosclerotic cardio
 
 ## 🖋 How to cite this work
 
-To be added - not yet published
+Daniel E Harris, Daniel King, Ashley Akbari, Mike Gravenor, Mathew Lawrence, Clive Weston, Chris Hopkins, Leighton Phillips, Julian Halcox, Trends in Atherosclerotic Cardiovascular Disease and lipid management. A population-level observational cohort study in Wales, European Journal of Preventive Cardiology, 2024; https://doi.org/10.1093/eurjpc/zwae233
 
 ## 📃 Funding
 
